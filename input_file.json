@@ -2,5 +2,5 @@
     "resource_generator_title": "Resource generation",
     "resource_generator_description": "Strings for this app are generated at build time from input_file.json",
     "resource_generator_action": "Learn more",
-    "resource_generator_url": "https://google.com"
+    "resource_generator_url": "https://medium.com/@namtarr/resource-generation-in-android-projects-registergeneratedresfolder-8c9278f13786"
 }
